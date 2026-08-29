@@ -1,4 +1,4 @@
-# «Организация тестирования»
+# « Организация тестирования »
 
 ![CI/CD](https://github.com/yakolman/HW_Testing/actions/workflows/deploy.yml/badge.svg)
 
